@@ -7,6 +7,8 @@ This project was created as part of the DataOps course at EDIT School. The main 
 - **Plot of Companies per Sector**: Displays a bar plot showing the number of companies per sector.
 - **Data Table**: Displays the data in a tabular format.
 - **Multiple Histograms**: Displays histograms for all numerical columns in the dataset.
+- **Bar Plot of Average**: Consumption per Sector: Displays bar plots of average energy consumption, water usage, and CO2 emissions by sector.
+- **Company KPIs:** Displays a summary of the companies with the highest and lowest energy, water, and CO2 usage.
 
 ## Requirements
 Make sure you have the following dependencies installed:
