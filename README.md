@@ -47,3 +47,4 @@ Open your web browser and go to `http://localhost:5000`. You will be greeted by 
 ## Acknowledgments:
 This project was created as part of the **DataOps** course at **EDIT School**. A special thanks to the instructors Thiago Turini, Rodrigo moutinho and peers for their support throughout the course.
 
+# DataOpsFinalProject
